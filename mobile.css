@@ -12,10 +12,6 @@
 
     }
 
-    #menu{
-        display: none;
-      }  
-
     .navbar{
         display: flex;
         flex-direction: column;
@@ -42,6 +38,11 @@
         height: 25rem;
     }
 
+    .btn-1{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
     .parallax h2{
         font-size: 1.5rem;
         padding: 1rem;
@@ -49,6 +50,7 @@
     }
 
     .parallax iframe{
+        display: none;
     }
 
     .navbar-logo{
