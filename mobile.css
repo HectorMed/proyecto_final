@@ -38,6 +38,10 @@
         height: 25rem;
     }
 
+    .navbar-logo svg{
+        display: inline-block;
+    }
+
     .btn-1{
         margin-top: 1rem;
         margin-bottom: 1rem;

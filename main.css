@@ -70,6 +70,10 @@ header{
     font-size: 1.2rem;
 }
 
+.navbar-logo svg{
+    display: none;
+}
+
 .list{
     list-style: none;
     display: flex;
